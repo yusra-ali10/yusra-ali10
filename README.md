@@ -1,32 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm Yusra
+# Hi 👋 I'm Yusra
 
 ### 💻 Software Engineering Student | Java • Python • C++
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Java+%7C+Python+%7C+C%2B%2B+Developer;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Software+Engineer+Student;Java+%7C+Python+%7C+C%2B%2B+Developer;Always+Learning+New+Things+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yusra-ali10&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Software Engineering Student
-
-💻 Passionate about Software Development
-
-🌱 Currently learning Advanced Python & Software Development
-
-🚀 Love building projects and solving programming problems
-
-📚 Always exploring new technologies
+- 🎓 Software Engineering Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning **Python** & **Data Structures**
+- 🚀 Love building real-world projects
+- 📚 Always exploring new technologies
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -36,82 +32,65 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yusra-ali10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusra-ali10&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://streak-stats.demolab.com?user=yusra-ali10&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# ✨ Featured Skills
+## 🏆 GitHub Trophies
 
-✔ Java Development
+<div align="center">
 
-✔ Python Programming
+<img src="https://github-profile-trophy.vercel.app/?username=yusra-ali10&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-✔ C++ Programming
-
-✔ Object-Oriented Programming
-
-✔ Problem Solving
-
-✔ Data Structures & Algorithms
-
-✔ Git & GitHub
-
-✔ MySQL
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Featured Skills
+
+- ☕ Java
+- 🐍 Python
+- 💙 C++
+- 🗄️ MySQL
+- 🌱 Git & GitHub
+- 💡 Object-Oriented Programming
+- 🧩 Problem Solving
+- 📚 Data Structures & Algorithms
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/yusra-ali10">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
 </p>
@@ -122,6 +101,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
