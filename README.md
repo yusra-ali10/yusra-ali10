@@ -25,5 +25,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusra-ali10&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=yusra-ali10&icon=0&color=0)
+![Visitors](https://komarev.com/ghpvc/?username=yusra-ali10&color=blue)
